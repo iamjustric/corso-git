@@ -1,2 +1,4 @@
 hello
 new line from dev
+
+added after fork - test
